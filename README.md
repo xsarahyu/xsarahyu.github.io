@@ -8,3 +8,5 @@ Welcome to my portfolio website, where you can learn more about me, see my resum
 ### Tech Used
 - HTML
 - CSS
+- SCSS
+- JavaScript
