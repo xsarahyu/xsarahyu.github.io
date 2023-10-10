@@ -2067,9 +2067,9 @@ input, select, textarea {
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
-				border: solid 3px #ddade7;
+				border: solid 2px #efefef;
 				color: white;
-				background: rgba(221, 173, 231, 0.5);
+				background: rgba(0, 0, 0, 0.1);
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
@@ -3199,7 +3199,6 @@ input, select, textarea {
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
 				}
-
 	}
 
 /* XSmall */
@@ -3226,3 +3225,7 @@ input, select, textarea {
 				padding-left: 0;
 			}
 	}
+
+#three img {
+	border: 1px solid #efefef;
+}
