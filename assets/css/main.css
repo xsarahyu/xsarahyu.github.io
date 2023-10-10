@@ -2166,7 +2166,7 @@ input, select, textarea {
 		}
 
 		#hearts li::before {
-			content: "❤︎";
+			content: "✿";
 			padding-right: 1em;
 			color: #ddade7;
 		}
