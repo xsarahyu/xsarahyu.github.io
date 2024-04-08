@@ -2161,20 +2161,6 @@ input, select, textarea {
 		padding-left: 1em;
 	}
 
-		#hearts {
-			padding-left: 0;
-		}
-
-		#hearts li::before {
-			content: "✿";
-			padding-right: 1em;
-			color: #ddade7;
-		}
-
-		.twoCol {
-			columns: 2;
-		}
-
 		ul li {
 			padding-left: 0.5em;
 		}
@@ -3228,4 +3214,15 @@ input, select, textarea {
 
 #three img {
 	border: 1px solid #efefef;
+}
+
+/* Custom */
+#flowers {
+  padding-left: 0;
+}
+
+#flowers li::before {
+  content: "✿";
+  padding-right: 1em;
+  color: #ddade7;
 }
