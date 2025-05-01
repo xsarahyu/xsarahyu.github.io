@@ -2937,3 +2937,22 @@ input, select, textarea {
 				padding-left: 0;
 			}
 	}
+
+/* Custom */
+.tech-stack {
+	margin-top: 0.5em;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5em;
+	cursor: default;
+}
+
+.tech-stack span {
+  display: inline-block;
+  padding: 0.1em 0.7em;
+  border-radius: 1.8em;
+  background-color: #f2f2f2;
+  font-size: 0.8em;
+  color: #787878;
+  white-space: nowrap;
+}
